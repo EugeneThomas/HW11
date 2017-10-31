@@ -1,9 +1,41 @@
 body {
-    background-color: powderblue;
+    color: black;
+    background-color: grey;
+    font: helvetica;
+    font-size: 100%
 }
+
 h1 {
-    color: blue;
+    text-align: center;
+    color: black;
+    font-style: italic;
+    background-color: grey;
+    font-size: 300%;
 }
+h2 {
+  color: black;
+  background-color: grey;
+  font-style: italic;
+  text-align: center;
+  font-size: 150%;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  background-color: grey;
+  font-size: 150%;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  font-size: 200%;
+}
+
 p {
-    color: red;
+  color: black;
+  background-color: grey;
+  text-align: center;
+  font-size: 100%;
 }

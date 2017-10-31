@@ -1,14 +1,37 @@
 body {
-    background-color: powderblue;
+    color: black;
+    background-color: beige;
+    font: verdana;
+    font-size: 100%
 }
+
 h1 {
-    color: white;
-    background-color: black;
+    text-align: center;
+    color: black;
+    background-color: beige;
+    font-size: 350%;
+}
+h2 {
+  color: black;
+  background-color: beige;
+  text-align: center;
+  font-size: 200%;
 }
 
 h3 {
-    color = 
+  color: black;
+  background-color: beige;
+  font-size: 200%;
 }
+
+ul {
+  list-style-type: none;
+  font-size: 200%;
+}
+
 p {
-    color: red;
+  color: black;
+  background-color: beige;
+  text-align: center;
+  font-size: 100%;
 }
